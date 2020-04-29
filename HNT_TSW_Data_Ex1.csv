@@ -28,7 +28,7 @@ Wichita,Control,2,18.45
 Wichita,Control,3,21.55
 Wichita,HNT,1,16.13
 Wichita,HNT,2,13.21
-Wichita,HNT,3,-9999
+Wichita,HNT,3,
 Riley,Control,1,27.48
 Riley,Control,2,22.51
 Riley,Control,3,22.45
@@ -52,10 +52,10 @@ HyCLASS225W,Control,2,30.73
 HyCLASS225W,Control,3,36.11
 HyCLASS225W,HNT,1,15.63
 HyCLASS225W,HNT,2,18.3
-HyCLASS225W,HNT,3,-9999
+HyCLASS225W,HNT,3,
 Hekip,Control,1,17.25
 Hekip,Control,2,26.14
-Hekip,Control,3,-9999
+Hekip,Control,3,
 Hekip,HNT,1,12.8
 Hekip,HNT,2,22.63
-Hekip,HNT,3,-9999
+Hekip,HNT,3,
