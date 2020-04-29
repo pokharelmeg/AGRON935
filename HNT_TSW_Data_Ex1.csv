@@ -1,0 +1,61 @@
+geno,trt,rep,TSW
+Mercedes,Control,1,33
+Mercedes,Control,2,34.55
+Mercedes,Control,3,27.77
+Mercedes,HNT,1,30.85
+Mercedes,HNT,2,25.73
+Mercedes,HNT,3,29.65
+Edimax CL,Control,1,32.59
+Edimax CL,Control,2,30.61
+Edimax CL,Control,3,36.46
+Edimax CL,HNT,1,24.12
+Edimax CL,HNT,2,37.39
+Edimax CL,HNT,3,26.14
+Popular,Control,1,35.13
+Popular,Control,2,25.03
+Popular,Control,3,34.68
+Popular,HNT,1,26.11
+Popular,HNT,2,27.92
+Popular,HNT,3,31.02
+46W94,Control,1,26.89
+46W94,Control,2,27.43
+46W94,Control,3,28.75
+46W94,HNT,1,28.9
+46W94,HNT,2,25.7
+46W94,HNT,3,32.58
+Wichita,Control,1,16.92
+Wichita,Control,2,18.45
+Wichita,Control,3,21.55
+Wichita,HNT,1,16.13
+Wichita,HNT,2,13.21
+Wichita,HNT,3,-9999
+Riley,Control,1,27.48
+Riley,Control,2,22.51
+Riley,Control,3,22.45
+Riley,HNT,1,21.51
+Riley,HNT,2,19.28
+Riley,HNT,3,19.04
+DKW44-10,Control,1,21.63
+DKW44-10,Control,2,17.41
+DKW44-10,Control,3,18.51
+DKW44-10,HNT,1,15.06
+DKW44-10,HNT,2,14.68
+DKW44-10,HNT,3,11.66
+DKW46-15,Control,1,25.21
+DKW46-15,Control,2,21.01
+DKW46-15,Control,3,22.75
+DKW46-15,HNT,1,19.57
+DKW46-15,HNT,2,17.88
+DKW46-15,HNT,3,13.27
+HyCLASS225W,Control,1,28.46
+HyCLASS225W,Control,2,30.73
+HyCLASS225W,Control,3,36.11
+HyCLASS225W,HNT,1,15.63
+HyCLASS225W,HNT,2,18.3
+HyCLASS225W,HNT,3,-9999
+Hekip,Control,1,17.25
+Hekip,Control,2,26.14
+Hekip,Control,3,-9999
+Hekip,HNT,1,12.8
+Hekip,HNT,2,22.63
+Hekip,HNT,3,-9999
